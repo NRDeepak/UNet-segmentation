@@ -8,7 +8,7 @@ This repository contains resources and code to help you understand and implement
 
 ## What's Inside?
 
-- **Article**: Check out the detailed article explaining U-Net and its applications in image processing and deep learning.
+- **Article**: Check out the detailed article explaining U-Net and its applications in image processing and deep learning. - [Article on Medium] (https://medium.com/@deepaknr015/u-net-demystified-a-gentle-introduction-2c96778126d2)
 
 - **Code**: Explore Python code examples and implementations of U-Net for various image segmentation tasks.
 
